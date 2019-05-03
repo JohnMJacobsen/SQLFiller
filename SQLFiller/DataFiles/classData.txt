@@ -1,0 +1,1064 @@
+ABT 1010A Painting and Refinishing l 4
+ABT 1020 Painting and Refinishing II 4
+ABT 1050 Body and Paint Practicum 6
+ABT 1110A Non-Structural Repair 4
+ABT 1710A Estimating and Shop Management 4
+ABT 1910A Welding Processes 4
+ABT 2010A General Maintenance and Safety 1
+ABT 2110 Structural Repair 4
+ABT 2210A Frame Repair Fundamentals 4
+ACC 1010 Principles of Accounting I 3
+ACC 1020 Principles of Accounting II 3
+ACC 1310 Accounting Applications 3
+ACC 1510 Payroll Accounting 3
+ACC 2010 Intermediate Accounting I 3
+ACC 2310 Computerized Accounting 3
+ACC 2410 Individual Taxation 3
+ACC 2610 Cost Accounting I 3
+ACC 3010 Intermediate Accounting II 3
+ACC 3410 Business Entities Taxation 3
+ACC 3610 Cost Accounting II 3
+ACC 4110 Auditing, Systems, and Controls I 3
+ACC 4120 Auditing, Systems, and Controls II 3
+ACC 4310 Governmental Accounting 3
+ACC 4410 Advanced Accounting 3
+ACC 4710 Forensic Accounting 3
+AG 1410 Plant Science and Agronomy 3
+AMT 2050 Principles of Industrial Safety, Health, and Environment 3
+AMT 2150 Fundamentals of Industrial Management 3
+AMT 2410 Introduction to Composites Technology 3
+AMT 2450 Advanced Composites Technology 3
+AST 1110A Engine Repair l 4
+AST 1210A Suspension and Steering 4
+AST 1310A Brakes 4
+AST 1410A Electrical/Electronic Systems l 4
+AST 1510A Engine Performance l 4
+AST 2010A General Maintenance and Safety 1
+AST 2110A Engine Repair ll 4
+AST 2210A Automatic Transmission 4
+AST 2250A Manual Drive Train 2
+AST 2410A Electrical / Electronic Systems ll 4
+AST 2510A Engine Performance ll 4
+AST 2710A Heating, Ventilation, and Air Conditioning 4
+AT 403Q Architectural Design III 6
+BAK 1010 Baking Science 1
+BAK 1110 Baking Fundamentals 4
+BAK 1210 Nutritional Baking 4
+BAK 1310 Classic Pastry Fundamentals 4
+BAK 1410 Petit Fours and Plated Desserts 4
+BAK 1510 Chocolate and Confections 4
+BAK 1610 Showpiece and Specialty Cake Design 4
+BAK 1710 Cafe and Bakery Operations 4
+BUS 2110 Business Analytics 3
+BUS 2910 Fundamentals of Project Management 3
+BUS 3110 Accounting for Managers 4
+BUS 3710 Financial Analysis and Applications 4
+BUS 4010 International Business 4
+BUS 4110 Human Resources and Employment Law 4
+BUS 4210 Marketing Management 4
+BUS 4310 Management Strategy 4
+BUS 4410 Developing Negotiation Skills 3
+BUS 5710 Compensation and Benefits 3
+BUS 5720 Human Resource Management 3
+BUS 5730 Labor Relations and Conflict Resolution 3
+BUS 5760 Employee Staffing and Development 3
+BUS 6150 Human Behavior Management of Organizations 3
+BUS 6200 Cloud Security Risk Management Policy Methods and Review 3
+BUS 6210 Cloud Security Risk Management Methodology 3
+BUS 6220 Cloud Security Risk Management Practicum I 3
+BUS 6230 Cloud Security Risk Management Practicum II 3
+BUS 6240 Cloud Security Risk Management Vulnerability Management 3
+BUS 6300 Accounting for the Contemporary Manager 3
+BUS 6310 Taxation 3
+BUS 6340 Non-Profit Accounting 3
+BUS 6350 Global Accounting 3
+BUS 6400 The Financial Environment 3
+BUS 6410 Money and Banking 3
+BUS 6420 Financial Accounting 3
+BUS 6430 International Business Finance 3
+BUS 6450 Public Finance 3
+BUS 6500 The Economic Environment 3
+BUS 6600 The Marketing Environment 3
+BUS 6780 Research and Statistics for Managers 3
+BUS 6850 Dynamics of Leadership 3
+BUS 6880 Profiles in Leadership 3
+BUS 6890 Team Leadership and Group Dynamics 3
+BUS 6900 Strategy in a Global Environment 3
+BUS 7500 Healthcare Programs and Policies 3
+BUS 7520 Healthcare Administration 3
+BUS 7530 Quality Management in Healthcare Organizations 3
+BUS 7580 Health Law and Ethics 3
+BUS 7590 Healthcare Finance 3
+BUS 8000 The Scholar Practitioner 3
+BUS 8010 Doctoral Writing and Literature Review 3
+BUS 8100 Leading 21st Century Organizations 3
+BUS 8110 Managing in a World-Wide Context 3
+BUS 8120 Knowledge Management and Information Systems 3
+BUS 8130 Quality Improvement and Organizational Change 3
+BUS 8140 Corporate and Personal Ethics 3
+BUS 8200 Professional Residency 2
+BUS 8400 Introduction to Research Methods and Designs 3
+BUS 8410 Defining the Dissertation Resear ch Problem and Research Question 3
+BUS 8600 Doctoral Specialization Seminar I 3
+BUS 8700 Doctoral Specialization Seminar II 3
+BUS 8800 Doctoral Specialization Seminar III 3
+BUS 8920 Comprehensive Essay 3
+BUS 8930 Qualifying Paper 3
+BUS 8940 Dissertation Proposal I 2
+BUS 8950 Dissertation Proposal II 2
+BUS 8960 Dissertation I 2
+BUS 8970 Dissertation II 2
+BUS 8980 Dissertation III 2
+BUS 8990 Dissertation IV 2
+BUS 9000 Dissertation V 2
+BUS 9010 Dissertation VI 2
+CAD 1110 Introduction to Computer Aided Design 3
+CAD 1410 Introduction to Industrial Materials and Processes 3
+CAD 2150 Statics and Strength of Materials 3
+CAD 2260 Unigraphics 3
+CAD 2270 Unigraphics Intermediate 3
+CAD 2280 Unigraphics Advanced 3
+CAD 2310 Pro/ENGINEER 3
+CAD 2320 Pro/ENGINEER Intermediate 3
+CAD 2330 Pro/ENGINEER Advanced 3
+CAD 2360 SolidWorks 3
+CAD 2370 SolidWorks Intermediate 3
+CAD 2380 SolidWorks Advanced 3
+CAS 1010A Noninvasive Cardiology 5
+CAS 1210A Introduction to Echocardiography 5
+CAS 2010 Cross Sectional Sonography 3
+CAS 2050A Clinical Affiliation I 3
+CAS 2110A Cardiac Valve Disease in Sonography 4
+CAS 2210A Cardiac Ventricular Disease in Sonography 4
+CAS 2310 Clinical Affiliation II 6
+CAS 2410 Clinical Affiliate III 3
+CAS 2610 Advanced Disease and Technologies 3
+CE 2110 Surveying 2
+CE 2510 Professional Practice 1
+CE 2610 Introduction to Environmental Engineering 3
+CE 3110 Traffic Engineering 3
+CE 3210 Structural Analysis I 3
+CE 3410 Soils Mechanics 4
+CE 4220 Structural Analysis II 3
+CE 4250 Reinforced Concrete Design 3
+CE 4270 Steel Design 3
+CE 4310 Water Resources Engineering 4
+CE 4710 Design of Bridges 3
+CE 4730 Pre-Stressed Concrete Design 3
+CE 4750 Structural Timber Design 3
+CE 4770 Pavement Design 3
+CE 4790 Geometric Design of Highways and Airports 3
+CE 4810 Foundation Engineering 3
+CE 4830 Transportation Engineering 3
+CE 4850 Hydrology 3
+CE 4870 Hydraulics 3
+CE 4890 Water Treatment Principles 3
+CE 4910 Construction Engineering 3
+CE 4970 Wastewater Collection Systems 3
+CE 4990 Solid Waste Principles 3
+CIS 1010 Introduction to Computer Applications 3
+CIS 1030 Word Processing 1
+CIS 1050 Electronic Spreadsheets 1
+CIS 1110 Computer Operating Systems and Maintenance I and II 3
+CIS 1110L Computer Operating Systems and Maintenance I and II 3
+CIS 1150 iSeries CL and File Design 3
+CIS 2210 Database Management and Design 3
+CIS 2410 Intermediate Spreadsheets 3
+CIS 2510 Systems Development Methods 3
+CIS 2610 Visual BASIC 3
+CIS 3010 Computer Architecture 3
+CIS 3510 System Modeling and Design 3
+CIS 3710 Introduction to Healthcare Informatics 3
+CIS 4010 Advanced Computer Architecture 3
+CIS 4210 Database Administration I 3
+CIS 4220 Database Administration II 3
+CIS 4310 Enterprise Architecture 3
+CIS 4410 IS Strategy, Management and Acquisition 3
+CIS 4810 Systems Development Project 3
+CIS 4950 Special Topics in Information Systems 3
+CIS 4990 Senior Project in Information Systems 3
+CM 1010 Introduction to Construction 3
+CM 1110 Fundamentals of Drafting and Design 3
+CM 1210 Construction Document Analysis 3
+CM 2010 Building Codes and Construction 3
+CM 2110 Computer Aided Architectural Drawing I 3
+CM 2120 Computer Aided Architectural Drawing II 3
+CM 2210 Building Materials and Construction 3
+CM 2310 Structural Analysis 3
+CM 2410 Builder License/Laws 2
+CM 2510 Environmental Control Systems I 3
+CM 2610 Construction Cost/Estimating 3
+CM 3060 Advanced Surveying 3
+CM 3110 Construction Safety 3
+CM 3310 Structural Design I 3
+CM 3320 Structural Design II 3
+CM 4060 Construction Estimating and Bidding 3
+CM 4110 Legal Aspects of Construction 3
+CM 4160 Construction Contract Administration 3
+CM 4210 Sustainable and Energy Efficient Design and Construction 3
+CM 4310 Construction Project Planning and Scheduling 3
+CM 4410 Environmental Control Systems II 3
+CM 4910 Construction Project Management 3
+CNC 1110 Basic Gauges and Measurements 3
+CNC 1310 Machining Theory and Methods 4
+CNC 1510 CNC Theory and Programming 3
+CNC 2010 Mastercam 3
+CNC 2020 Intermediate Mastercam 3
+CNC 2030 Advanced Mastercam 3
+COL 4910 General Studies Capstone Portfolio 3
+CQI 1210 Introduction to Quality Theory 3
+CRJ 1010 Introduction to Criminal Justice 3
+CRJ 1060 Introduction to Corrections 3
+CRJ 1210 Correctional Facilities 3
+CRJ 1310 Diversity in Criminal Justice 3
+CRJ 1410 Criminology 3
+CRJ 1510 Legal Issues in Corrections 3
+CRJ 1810 Community Corrections 3
+CRJ 2110 Interpersonal Communication and Conflict Management 3
+CRJ 2210 Interviewing, Investigations and Report Writing 3
+CRJ 2310 Principles of Policing I 3
+CRJ 2320 Principles of Policing II 3
+CRJ 2410 Juvenile Justice Concepts 3
+CRJ 2510 Ethical Issues in Criminal Justice 3
+CRJ 2610 Security Management 3
+CRJ 2810 Criminal Justice Work Experience I 3
+CRJ 3110 Drugs, Crime and Society 3
+CRJ 3210 Criminal Law 3
+CRJ 3310 Cybercrime Investigations 3
+CRJ 3410 Introduction to Forensic Science 3
+CRJ 3510 Evidence Collection and Procedures 3
+CRJ 3610 Organized Crime and Youth Gangs 3
+CRJ 3710 Criminal Courts 3
+CRJ 4210 Evidence-Based Practices 3
+CRJ 4310 Terrorism and Homeland Security 3
+CRJ 4410 Organizational Leadership in Criminal Justice 3
+CRJ 4810 Criminal Justice Work Experience II 3
+CS 1010 Principles of Computer Science 3
+CS 1110 Introduction to Programming 3
+CS 2010 Net-centric Computing 3
+CS 2150 C++ Programming 3
+CS 2310 Microprocessor Electronics 3
+CS 2410 Java Programming 3
+CS 2420 Advanced Java Programming 3
+CS 3010 Game Design and Analysis 3
+CS 3110 C# Programming 3
+CS 3210 Data Structures and Algorithms I 3
+CS 3220 Data Structures and Algorithms II 3
+CS 3310 Application Security Practices 3
+CS 3410 Programming for Mobile Devices 3
+CS 3510 Introduction to Android Mobile SDK and Application Development 3
+CS 3520 Advanced Android Mobile Application Development 3
+CS 3610 Report Builder Analytics - Cognos 3
+CS 3650 Python Programming 3
+CS 3810 Unreal Game Programming I 3
+CS 3820 Unreal Game Programming II 3
+CS 3850 Game Development 3
+CS 3910 Emerging Programming Languages 3
+CS 3950 Big Data Analytics 3
+CS 4110 Artificial Intelligence 3
+CS 4210 Database Programming I 3
+CS 4220 Database Programming II 3
+CS 4310 Unity Game Programming I 3
+CS 4320 Unity Game Programming II 3
+CS 4510 Unit Testing and Interfaces 3
+CS 4650 Advanced Database Topics 3
+CS 4810 Trends in Computer Science 3
+CS 4990 Senior Design Project in Game Software Development 3
+CSC 2010 CISCO CCENT Networking I 3
+CSC 2020 CISCO CCENT Networking II 3
+CSC 2110 CISCO CCNA Networking I 3
+CSC 2120 CISCO CCNA Networking II 3
+CSC 3310 CCNA Security 4
+CSC 4210 CCNP Route 4
+CSC 4310 CCNP Switch 4
+CSC 4410 CCNP Tshoot 4
+CUL 1010 Sustainability in the Food Service Industry 1
+CUL 1110 Food Service Career Skills 1
+CUL 1150 Culinary Math 3
+CUL 1310 Food Safety and Sanitation 1
+CUL 1410 Nutritional Cooking 1
+CUL 1510 Culinary Skills I 4
+CUL 1520 Culinary Skills II 4
+CUL 1530 Culinary Skills III 4
+CUL 2160 Baking for Culinary Students 4
+CUL 2210 Purchasing and Product Identification 4
+CUL 2250 Table Service 4
+CUL 2310 Garde Manger 4
+CUL 2510 Restaurant Techniques 4
+DAS 1010 Dental Assisting I 4
+DAS 1020 Dental Assisting II 3
+DAS 1110 Anatomy, Histology and Pathology for the Dental Assistant 3
+DAS 1210 Biomedical Science 2
+DAS 1310 Dental Materials 3
+DAS 1410 Dental Radiography 4
+DAS 1510 Dental Office Management 2
+DAS 2010 Clinical Practice 6
+DAS 2011 Clinical Practice 5
+DAS 2110 Registered Dental Assistant Functions 3
+DAS 2210 Dental Specialties 2
+DAS 2310 Dental Ethics and Jurisprudence 2
+DAS 2610 CDA/RDA Exam Preparation 2
+DHY 1010 Clinical Dental Hygiene I 3
+DHY 1020 Clinical Dental Hygiene II 3
+DHY 1030 Clinical Dental Hygiene III 2
+DHY 1110 Oral Anatomy and Histology 4
+DHY 1150 Dental Histology 1
+DHY 1210 Principles of Dental Hygiene 2
+DHY 1250 Oral Anatomy 3
+DHY 1310 Head and Neck Anatomy 2
+DHY 1350 Dental Materials 2
+DHY 1410 Oral Pathology 2
+DHY 1510 Radiography 3
+DHY 1610 Pharmacology for the Dental Hygienist 2
+DHY 1710 Dental Pain and Anxiety Control 3
+DHY 2040 Clinical Dental Hygiene IV 3
+DHY 2050 Clinical Dental Hygiene V 3
+DHY 2110 Periodontics 3
+DHY 2210 Community Dentistry and Education 4
+DHY 2310 Dental Law and Ethics 1
+DHY 2410 Periodontics I 2
+DHY 2420 Periodontics II 2
+DHY 2520 Radiographic Interpretation 1
+DMS 1110 Abdominal Sonography 4
+DMS 1210 OB/GYN Sonography I 3
+DMS 1310 Sonographic Techniques 3
+DMS 2210 OB/GYN Sonography II 3
+DMS 2310 Clinical I 6
+DMS 2320 Clinical II 6
+DMS 2330 Clinical III and Capstone Review 6
+DMS 2410 Superficial Structures and Ultrasound Procedures 2
+DSL 1010 Diesel Engine Theory 4
+DSL 1410 Diesel Electrical/Electronic Systems I 4
+DSL 1420 Diesel Electrical/Electronic Systems II 4
+DSL 1510 Basic Welding, Cutting, and Fabrication 3
+DSL 1710 Diesel Engine Repair 4
+DSL 1810 Introduction to Diesel Maintenance and Repair 4
+DSL 2110 CDL Preparation for the Diesel Service Technician 3
+DSL 2210 Heavy Duty Brake Service 4
+DSL 2310 Heavy Duty Suspension/Steering 4
+DSL 2410 Heavy Duty Heating and Air Conditioning 4
+DSL 2610 Heavy Duty Drivetrains 4
+DSL 2710 Performance Diagnostics and Systems Maintenance 4
+DSL 2910 Hydraulic Systems and Repair 3
+ECE 1010 Introduction to Early Childhood Education 3
+ECE 1110 Early Childhood Development 3
+ECE 1310 Healthy Environments for Early Childhood 3
+ECE 1410 Creative Activities 3
+ECE 1510 Administration of Early Childhood Education Programs 3
+ECE 1650 Observation and Assessment Techniques for Early Childhood Education Programs 3
+ECE 1710 Language Development and Language Arts 3
+ECE 1910 CDA Preparation 2
+ECE 2010 Infant and Toddler Development and Curriculum 3
+ECE 2020 Infant and Toddler Development and Curriculum Lab 1
+ECE 2110 Developing Anti-Bias Curriculum 3
+ECE 2210 Math, Science, Technology and Engineering for Early Childhood 3
+ECE 2310 Guidance and Discipline 3
+ECE 2510 Developing Curriculum for Early Childhood 3
+ECE 2710 Early Childhood Education Practicum I 3
+ECE 2810 Parents and Teachers: Partners in Education 3
+ECE 3010 Advocating for Young Children 3
+ECE 3510 Philosophies in Early Childhood Education 3
+ECE 3610 Survey of Early Childhood Education Programs 3
+ECE 3650 Effect of Trauma and Stress on the Learning and Development of Young Children 3
+ECE 3710 Early Childhood Education Practicum II 3
+ECE 3750 Implementation of Curriculum in an Early Childhood Education Environment 3
+ECE 4010 Advanced Infant and Toddler Care and Curriculum 3
+ECE 4410 Music and Movement for Young Children 3
+ECE 4510 Early Childhood Education Practicum III 3
+ECE 4550 Administrative Operations of Early Childhood Education 3
+ECE 4610 Early Assessment and Referral 3
+ECE 4710 Early Literacy Intervention 3
+ECE 4910 Senior Seminar: Early Childhood Education 3
+ECN 2010 Principles of Macroeconomics 3
+ECN 2110 Principles of Microeconomics 3
+ECN 3010 International Economics 3
+EDU 1410 Health and Physical Education for Elementary Educators 3
+EDU 1510 Visual and Performing Arts for Elementary Educators 3
+EDU 2010 Introduction to Professional Education Experience 3
+EDU 2110 Number Concepts for Educators 3
+EDU 2120 Geometric and Statistical Concepts for Educators 3
+EDU 2210 Children's Literature 3
+EDU 2510 Science Foundations I: Chemistry and Life Science 3
+EDU 2520 Science Foundations II: Astronomy, Earth Science, and Physics 3
+EDU 3110 Social Studies for Elementary Teachers 3
+EDU 3120 Educational Psychology 3
+EDU 3210 Theory and Principles of Reading Instruction 3
+EDU 3310 The Exceptional Learner 3
+EDU 3410 Language Arts and Linguistic Foundations 3
+EDU 3460 Integrating Technology into 21st Century Learning 3
+EDU 3710 Early Childhood Education ZS Practicum 3
+EDU 3810 Service Learning Project 1
+EDU 4210 Reading in the Content Areas 3
+EDU 4250 Literacy Education in the Secondary School 3
+EDU 4290 Reading Assessment 3
+EDU 4310 Instructional Design and Assessment 3
+EDU 4410 Classroom Development 3
+EDU 4450 Educational Foundations 2
+EDU 4510 Theory and Techniques of Instruction 6
+EDU 4550 Theory and Techniques of Instruction I 3
+EDU 4560 Theory and Techniques of Instruction II 2
+EDU 4760 Theory and Techniques Practicum 6
+EDU 4810 Directed Teaching I 10
+EDU 5110 Data Analysis for Educators 3
+EDU 5210 Assessment and Evaluation for Educators I 3
+EDU 5220 Research and Decision Making in Education 3
+EDU 5310 Learning Theory and Instruction for Educational Improvement 3
+EDU 6010 Leadership for Accountability 3
+EDU 6040 Organizations, Innovation and Accountability 3
+EDU 6070 Faculty Evaluation and Growth to Improve Student Learning 3
+EDU 6110 Fiscal, Facilities and School Management 3
+EDU 6140 Public Policy, Values, and Legal and Ethical Issues in Accountability 3
+EDU 6170 School and Community Relations 3
+EDU 6210 Technology for Improving Education 3
+EDU 6410 Instructional Design for Higher Education 3
+EDU 6440 Course Facilitation in Higher Education 3
+EDU 6470 Effective Distance Learning Programs 3
+EDU 6910 Educational Effectiveness Capstone Experience 3
+EE 2110 Circuits and Electronics I 4
+EE 2120 Circuits and Electronics II 4
+EE 2210 Digital Logic and Circuits 3
+EE 3130 Circuits and Electronics III 4
+EE 3210A Microprocessors and Microcontrollers 3
+EE 3250 Automation and Control 2
+EE 3270 Microprocessor/Automation Control Lab 1
+EE 3410 Electromagnetic Fields and Waves 4
+EE 3610 Dynamic Systems and Control 3
+EE 4140 Circuits and Electronics IV 3
+EE 4210 Digital Logic Design 3
+EE 4230 Digital Signal Processing 3
+EE 4250 Embedded Software 3
+EE 4310 Signals and Systems 3
+EE 4350 Communication Systems and Circuits 3
+EE 4410 Opto-Electronics 3
+EE 4450 Laser Systems and Applications 3
+EE 4510 Energy Conversion and Power Electronics 4
+EE 4610 Robotics 3
+EE 4710 Electronic Design Automation 3
+EET 1110 Electrical Technology 4
+EET 1150 Circuits 4
+EET 1610 Introduction to Robotics 3
+EET 1620 Advanced Robotics 3
+EGR 1010A Engineering Graphics 2
+EGR 1050 Introduction to Engineering and Design 2
+EGR 2710 Computing for Engineers 2
+EGR 2990 Capstone Project 3
+EGR 3210 Engineering Economy I 2
+EGR 4910 Engineering Project Management 3
+EGR 4920 Senior Design Project 2
+EGR 4950 Engineering Research 3
+EN 2010 Introduction to Entrepreneurship 3
+ENG 1010 College Composition I 3
+ENG 1020 College Composition II 3
+ENG 2050 Mass Media and Society 3
+ENG 2310 Language and Culture 3
+ENG 2410 Creative Writing 3
+ENG 3010 Structures of English 3
+ENG 4910 Senior Seminar: English and Language Arts 3
+FBM 1110 Food Culture and Introduction to Wine 3
+FBM 1210 Culinary Fundamentals 4
+FBM 1310 Accounting for Food and Beverage Managers 3
+FBM 2210 Menu Planning and Analysis 3
+FBM 2310 Hospitality Financial Management 3
+FBM 2410 Food and Beverage Management 3
+FBM 2550 Beer Styles and Service 4
+FBM 2610 Liquor Identification and Mixology 4
+FBM 2810 Restaurant Operations 4
+FIN 1010 Personal Finance 3
+FIN 3010 Principles of Finance 3
+FIN 3150 Risk Management 3
+FIN 3250 Banking and Financial Institutions 3
+FIN 3410 Credit Analysis and Commercial Lending 3
+FIN 3550 Financial Markets 3
+FIN 4010 Personal Financial Planning 3
+FIN 4510 International Financial Management 3
+FIN 4610 Investment Management 3
+FIN 4710 Financial Statement Analysis 3
+FIN 4910 Finance Seminar 3
+GEO 1010 Human Geography 3
+GEO 1110 Physical Geography 3
+HIS 1010 Introduction to History 3
+HIS 3410 United States History to 1877 3
+HIS 3420 United States History Since 1877 3
+HIS 3510 World History I 3
+HIS 3520 World History II 3
+HIS 3530 World History III 3
+HIS 3540 World History IV 3
+HIS 3610 Michigan History 3
+HIS 4910 Senior Seminar: History and Social Studies 3
+HIT 1010 Healthcare Delivery Systems 3
+HIT 1110 Health Data Content and Structure 3
+HIT 1310 Legal and Ethical Issues 3
+HIT 2010 Healthcare Data Analytics and Statistics 3
+HIT 2110 Coding I ICD 3
+HIT 2120 Coding II ICD 3
+HIT 2130 Coding III CPT 3
+HIT 2210 Clinical Quality Management 3
+HIT 2310 Health Information Management 1
+HIT 2350 Reimbursement Methodologies 1
+HIT 2410 Organization and Leadership 3
+HIT 2510 Health Information Technology Professional Practice Experience 2
+HIT 2910 RHIT Review 2
+HRM 3010 Staffing Human Resources 3
+HRM 3110 Compensating Human Resources 3
+HRM 3150 Performance Management of Human Resources 3
+HRM 3410 Training and Developing Human Resources 3
+HRM 4010 Human Resources and Employment Law 3
+HRM 4150 Human Resource Information Systems and Metrics 3
+HRM 4350 International Human Resource Management 3
+HRM 4510 Employee and Labor Relations 3
+HRM 4910 Strategic Human Resource Management 3
+HSC 1010 Introduction to Health Professions 2
+HSC 1110 Introduction to Healthcare 3
+HSC 1210 Human Anatomy and Physiology I 3
+HSC 1211 Human Anatomy and Physiology I Lab 1
+HSC 1220 Human Anatomy and Physiology II 3
+HSC 1221 Human Anatomy and Physiology II Lab 1
+HSC 1250 Introduction to Disease 3
+HSC 1810 Acoustical Physics 4
+HSC 1850 Introduction to Sonography and Patient Care 3
+HSC 1910 Introduction to Sonography and Patient Care 3
+HSC 2150 Pathophysiology 3
+HSC 2210 Nutrition 3
+HSC 2310 Biochemistry 3
+HSC 2410 Microbiology 3
+HSC 2411 Microbiology Lab 1
+HSC 2610 Basic Pharmacology 3
+HSC 2650 Cardiovascular Pharmacology 1
+HSC 2710 Clinical Kinesiology 4
+HSC 3110 Health Law and Regulations 3
+HSC 3150 Planning and Evaluation of Health Services 3
+HSC 3810 Neuroanatomy 3
+HSC 4010 Healthcare Administration 3
+HSC 4110 Seminar in Health Issues 3
+HSC 4210 Ethics for Health Professionals 3
+HSC 4310 Health System Finance 3
+HUM 1010 Art and Architecture I 3
+HUM 1020 Art and Architecture II 3
+HUM 3610 Art Appreciation 3
+HUM 3650 Music Appreciation 3
+HUM 4010 Philosophy of Ethics 3
+HUS 1010 Introduction to Human Services 3
+HUS 1210 Family Dynamics 3
+HUS 1410 Abuse and Neglect in the Family 3
+HUS 1510 Ethics and Issues in Human Services 3
+HUS 2010 Substance Abuse 3
+HUS 2110 Assessment, Recording, and Reporting 3
+HUS 2210 Case Management I 3
+HUS 2350 Trauma Informed Care in Crisis Intervention 3
+HUS 2610 Theory of Group Dynamics for Human Services 3
+HUS 2710 Human Services Internship I 3
+HUS 2920 Family Support Strategies 3
+HUS 3010 Research Methods in Human Services 3
+HUS 3510 Child Welfare Services 3
+HUS 3610 Application and Practice of Group Dynamics for Human Services 3
+HUS 4110 Institutional Treatment and Alternative Settings in Human Services 3
+HUS 4120 Case Management II - Working With Diverse Populations 3
+HUS 4210 Human Services Administration 3
+HUS 4310 The DSM System and Mental Health Services 3
+HUS 4710 Human Services Internship II 3
+IND 1010 Introduction to Interior Design 3
+IND 1050 Textiles 3
+IND 1110 Introduction to Residential Design 3
+IND 1150 Interior Design Graphics 3
+IND 1210 Rendering Techniques and Perspectives 3
+IND 1410 Workroom Practices 3
+IND 2010 History of Furnishings 3
+IND 2110 Introduction to Commercial Design 3
+IND 2310 Building Systems 3
+IND 2410 Studio Kitchen and Bath 3
+IND 2510 Interior Design Business Practices 3
+IND 2610 Introduction to Design Software 3
+IND 2650 Interior Design CAD 3
+IND 2910 Portfolio Projects 3
+IND 3010 Building Codes and Construction 3
+IND 3110 Architectural Design 3
+IND 3120 Commercial Architectural Design I 3
+IND 3130 Commercial Architectural Design II 3
+IND 3210 Advanced Rendering Techniques an d Perspectives 3
+IND 3310 3-D Modeling 3
+IND 3410 Universal and Sustainable Design 3
+IND 3610 Designing for Healthcare 3
+IND 3910 Integrated Design Studio 3
+IND 4010 Lighting Design 3
+IND 4210 Historical Preservation 3
+IND 4310 Commercial Design I 3
+IND 4320 Commercial Design II 3
+IND 4990 Senior Design Portfolio 3
+ISE 2110 Manufacturing Processes 3
+ITS 1110 Introduction to Information Systems Security 3
+ITS 2110 Introduction to Network Security 3
+ITS 2210 VPN Firewall 3
+ITS 2310 Linux I 3
+ITS 2320 Linux II 3
+ITS 2330 Linux III 3
+ITS 3050 Security Policies and Auditing 3
+ITS 3150 Information Systems Threat Assessment 3
+ITS 3210 Legal and Ethical Issues in Information Technology 3
+ITS 3250 Securing Systems 3
+ITS 3310 Designing for Security 3
+ITS 3410 Scripting for Network Administrators 3
+ITS 4050 Internet and Web Security 3
+ITS 4150 Firewall Concepts 3
+ITS 4210 Access Control Authentication and PKI 3
+ITS 4250 Computer Forensics and Investigation 3
+ITS 4350 Disaster Recovery 3
+ITS 4450 Fraud Risk Assessment Tools and Investigation 3
+ITS 4550 Fraud Prevention and Deterrence 3
+ITS 4910 Information Trends/Research and Design Project 3
+JNYCD 1000 Journeyman Status 27
+LAW 2110 Business Law 3
+LAW 3110 Advanced Business Law 3
+LIT 2050 Introduction to Literature: World Masterpieces and Critical Approaches 3
+LIT 3110 British Literature: Beginning to Neoclassicism 3
+LIT 3150 British Literature: Romanticism to Modernism 3
+LIT 3310 Survey of American Literature 3
+LIT 4050 Young Adult Literature 3
+LIT 4210 Contemporary Literature 3
+MA 1210 Basic Clinical and Administrative Skills 6
+MA 1250 Intermediate Administrative Skills 5
+MA 1310A Dosage Math and Pharmacology 2
+MA 1350 Legal Concepts 2
+MA 1410 Clinical Procedures I 5
+MA 1450A Clinical Procedures II 5
+MA 1510 Credential Review 2
+MA 1530 Medical Assistant Practicum 3
+MA 1590 Credential Review and Practicum 6
+MATT 1210 Integrated Systems 3
+MATT 1350 Electro-Hydraulics 3
+MATT 1510 Mechanical Drives 3
+MATT 1710 Industrial Safety Hoists and Cranes 2
+MATT 1910 Blueprint Reading 1
+MATT 2110 Industrial Controls and Instrumentation 3
+MATT 2210 Programmable Logic Controller Application 4
+MATT 2220 Advanced Programmable Logic Controller Application 4
+MATT 2350 Introduction to Gas/Arc/Mig/Tig Welding 3
+MATT 2510 General Preventative/Predictive Maintenance 2
+MATT 2710 Shop Floor Networking 1
+MATT 2990 Capstone Project 6
+ME 2110 Materials Science 4
+ME 2210 Statics 3
+ME 2250 Dynamics 3
+ME 2410 Introduction to 3D Modeling 3
+ME 2450 Introduction to Computer Aided Engineering 2
+ME 2710 Pneumatics and Hydraulics 3
+ME 3210 Solid Mechanics 3
+ME 3220 Solid Mechanics and Vibrations Lab 1
+ME 3250 Vibrations 3
+ME 3270 Mechanical Design 4
+ME 3310 Thermodynamics 3
+ME 3410 Fluid Mechanics 3
+ME 4310 Heat Transfer 3
+ME 4350 Thermal Systems Lab 1
+ME 4410 Advanced Fluid Mechanics 3
+ME 4610 Robotics 3
+ME 4710 Introduction to Finite Element Analysis 3
+ME 4730 Intermediate Finite Element Analysis 3
+ME 4750 Kinematics 3
+ME 4770 Noise, Vibration, and Harshness 3
+ME 4790 Biomechanics and Biomaterials 3
+ME 4810 Ergonomics for Engineers 3
+ME 4830 Alternative Energies 3
+ME 4850 Computer Aided Engineering with Solidworks 3
+ME 4870 Mechatronics 3
+ME 4950 Engineering Topics 3
+MGT 1010 Introduction to Business 3
+MGT 1110 Professional Management Behavior 3
+MGT 2110 Staffing and Performance Management 3
+MGT 2210 Management Seminar 3
+MGT 3010 Principles of Management 3
+MGT 3110 Organizational Change 3
+MGT 3210 Management Information Systems 3
+MGT 3310 Applied Leadership 3
+MGT 3410 Globalization and Diversity 3
+MGT 3510 Applied Business Analytics 3
+MGT 4220 Operations Management 3
+MGT 4310 Strategic Management 3
+MIS 5110 Management Information Systems 3
+MIS 5210 Information Systems Project Management 3
+MIS 5260 Business Intelligence 3
+MIS 5310 Database Design and Management 3
+MIS 6010 Information Security 3
+MIS 6110 System Analysis and Design 3
+MIS 6210 Systems Architectures 3
+MIS 6240 Data Warehousing 3
+MIS 6710 Information Systems Integration Project I 3
+MIS 6720 Information Systems Integration Project II 3
+MKT 1110 Principles of Marketing 3
+MKT 1150 Introduction to Marketing Media Tools and Design 3
+MKT 2010 Contemporary Trends in Social Media Marketing 3
+MKT 3110 Consumer Behavior 3
+MKT 3410 Digital Marketing I 3
+MKT 3420 Digital Marketing II 3
+MKT 3510 Marketing Analytics 3
+MKT 4010 Marketing Research 3
+MKT 4110 International Marketing 3
+MKT 4310 Marketing Strategy and Design 3
+MKT 4410 Sales Strategy 3
+MLT 1010 Introduction to Medical Laboratory Technician 3
+MLT 2010 Hematology and Coagulation 5
+MLT 2210 Immunology 2
+MLT 2310 Laboratory Chemistry 3
+MLT 2410 Medical Microbiology 5
+MLT 2510 Immunohematology 4
+MLT 2610 Urinalysis 2
+MLT 2710 Clinical Experience 6
+MLT 2910 MLT Capstone Review 3
+MNP 2010 Microsoft Windows Configuration 3
+MNP 2110 Microsoft Client 3
+MNP 2150 Microsoft Server 3
+MNP 2210 Server Administration I 3
+MNP 2220 Server Administration II 3
+MNP 3110 Advanced Server Administration I 3
+MNP 3120 Advanced Server Administration II 3
+MNP 4310 Advanced Server Administration III 3
+MNP 4320 Advanced Server Administration IV 3
+MRS 1210 Introduction to Medical Reimbursement 3
+MRS 1310 ICD/CPT/HCPCS Coding 8
+MRS 1330 Reimbursement Ethics and Compliance 2
+MRS 1350 Revenue Cycle Management 4
+MRS 1410 Facility Billing 3
+MRS 1450 Advanced Reimbursement Concepts 3
+MRS 1590 Certification Review and Externship 5
+MTH 1050 Quantitative Reasoning I 3
+MTH 1060 Quantitative Reasoning II 3
+MTH 1110 College Algebra I 3
+MTH 1120 College Algebra II 3
+MTH 1210 Trigonometry 3
+MTH 1310 Pre-Calculus 5
+MTH 1410 Introduction to Discrete Mathematics 3
+MTH 1510 Calculus I 4
+MTH 2510 Calculus II 4
+MTH 2710 Probability and Statistics for Educators 3
+MTH 2750 Statistical Methods 3
+MTH 3110 Algebraic Thinking and Proportional Reasoning 3
+MTH 3510 Multivariable Calculus 4
+MTH 3550 Differential Equations and Linear Algebra 4
+MTH 3610 College Geometry 3
+MTH 4110 Reasoning and Proof for Elementary Educators 3
+MTH 4150 Modern Algebra 3
+MTH 4510 Introduction to Real Analysis 3
+MTH 4910 Senior Seminar: Mathematics 3
+NET 1010 Networking Essentials 3
+NET 2110 Wireless Networking 3
+NET 2210 Routers and Routing 3
+NET 2250 Advanced Routers and Routing 3
+NET 2310 Virtual Environment Install Configure and Manage 3
+NPMG 3010 Grant Writing 3
+NPMG 3310 Fund Development 3
+NUR 2110 Fundamentals of Nursing for the ADN 7
+NUR 2150 Fundamentals of Nursing for the BSN 7
+NUR 2210 Health Assessment for the ADN 2
+NUR 2250 Health Assessment for the BSN 3
+NUR 2310 Nursing Pharmacology Overview for the ADN 2
+NUR 2350 Pharmacology and Medication Administration for the BSN 3
+NUR 2410 Mental Health Nursing for the ADN 3
+NUR 2510 Medical Surgical Nursing I for the ADN 10
+NUR 2520 Medical/Surgical Nursing II for the ADN 3
+NUR 2550 Medical/Surgical Nursing I for the BSN 7
+NUR 2610 Child and Family Nursing for the ADN 3
+NUR 2710 Maternal Child Nursing for the ADN 3
+NUR 2910 Nursing Leadership Seminar for the ADN 6
+NUR 3050 Evidence Based Practice for the BSN 3
+NUR 3150 Community Nursing for the BSN 4
+NUR 3210 Fundamentals of Professional Nursing Practice 3
+NUR 3250 Nursing Assessment for the Registered Nurse 3
+NUR 3310 Nursing Theory and Research 3
+NUR 3350 Health Promotion and Vulnerable Populations 3
+NUR 3450 Mental Health Nursing for the BSN 4
+NUR 3550 Medical/Surgical Nursing II for the BSN 5
+NUR 3650 Child and Family Nursing for the BSN 4
+NUR 3750 Maternal/Child Nursing for the BSN 4
+NUR 4150 Medical/Surgical Nursing III for the BSN 5
+NUR 4250 Nursing Leadership for the BSN 3
+NUR 4350 Nursing Synthesis for the BSN 4
+NUR 4450 Community Health Nursing 3
+NUR 4452 Community Health Nursing Practicum 3
+NUR 4550 Nursing Leadership and Management 3
+NUR 4552 Nursing Leadership and Management Practicum 3
+NUR 4610 Global Health Study Abroad 3
+NUR 4650 Global Health 3
+NUR 4710 Cultural Competence in Nursing: The Hispanic Patient 3
+NUR 4750 Pathophysiology for the Nurse 3
+NUR 4850 Nursing Seminar 3
+NUR 5110 Leadership and Advanced Nursing Practice Roles 3
+NUR 5210 Organization, Delivery and Policy in Healthcare 3
+NUR 5310 Nursing Theory and Research 3
+NUR 5410 Informatics and Healthcare Technologies 3
+NUR 5510 Quality Improvement, Outcomes Management, and Population Health 3
+NUR 6110 Advanced Health Assessment and Pharmacology 3
+NUR 6150 Advanced Pathophysiology 3
+NUR 6210 Instructional Strategies for Nursing Education 3
+NUR 6240 Curriculum Development for Nursing Education 3
+NUR 6270 Evaluation Strategies for Nursing Education 3
+NUR 6410 Foundations of Nursing Administration 3
+NUR 6810 Practicum in Nursing Education 3
+NUR 6860 Practicum in Nursing Administrat ion 4
+OCC 1010 Foundations of Occupational Therapy 2
+OCC 2220 Therapeutic Use of Occupations 5
+OCC 2330 Occupational Centered Theory 5
+OCC 2550 Assessment of Occupational Engagement 3
+OCC 3020 Mental Health Conditions and Occupational Dysfunction 3
+OCC 3060 Complementary Therapies, Wellness and Occupation 3
+OCC 3130 Professional Roles, Responsibilities and Practice Areas 3
+OCC 3140 Documentation in the Healthcare System 3
+OCC 3210 Level I Fieldwork 2
+OCC 3310 Child Development and the Implications of Pathology/ Conditions 3
+OCC 3410 Disease/Injury and Occupational Dysfunction 3
+OCC 3510 The Aging Process and the Implications of Pathology/ Conditions 3
+OCC 4020 Program Planning/Intervention Strategies I 5
+OCC 4030 Program Planning/Intervention Strategies II 5
+OCC 4220 Occupational Therapy and Case Management 4
+OCC 4350 Personal and Environmental Adaptations 5
+OCC 4550 Community-Based Occupational Therapy 5
+OCC 5010 Program Planning/Intervention 4
+OCC 5050 Assessment and Treatment Interventions for Mental Health Practice 4
+OCC 5110 Occupational Therapy Research I 2
+OCC 5210 Upper Extremity Rehabilitation I 4
+OCC 5220 Upper Extremity Rehabilitation I I 2
+OCC 5410 Leadership and Management Roles in Occupational Therapy Practice 2
+OCC 5610 Level I Fieldwork 1
+OCC 6120 Occupational Therapy Research II 3
+OCC 6310 Case Based Clinical Reasoning 4
+OCC 6610 Level I Fieldwork 2
+OCC 6710 Occupational Therapy Level II Fieldwork 5
+OCC 6720 Occupational Therapy Level II Fieldwork 5
+OPT 1010 Introduction to Orthotic/ Prosthetic Technology 4
+OPT 2010 Foot and Ankle Orthotics and Prosthetics 5
+OPT 2050 Upper Extremity Orthotics and Prosthetics 5
+OPT 2110 Lower Extremity Orthotic Systems 5
+OPT 2210 Transtibial Prosthetics 5
+OPT 2250 Transfemoral Prosthetics 4
+OPT 2310 Spinal Orthotics 4
+OPT 2510 Orthotics/Prosthetic Clinical Internship 4
+OPT 2910 Orthotic/Prosthetic Technology Review 3
+OTA 1110A Introduction to Occupational Therapy Assisting 2
+OTA 1210 Clinical Pathology and Occupations 3
+OTA 2010 OTA Clinical Documentation and Health Records 2
+OTA 2050 OTA Principles and Applications Principles and Applications in Mental Health 3
+OTA 2110 OTA Clinical Techniques in Mental Health 3
+OTA 2150 Fundamentals in OTA Practice 3
+OTA 2210 OTA Principles and Applications of Physical Dysfunction 3
+OTA 2250 Neurological Foundations of Motor Control 2
+OTA 2310 OTA Clinical Techniques in Physical Dysfunction 3
+OTA 2350 Geriatric Patient Care 2
+OTA 2410 Elements of Therapeutic Media 3
+OTA 2510 OTA Principles and Applications in Pediatrics 2
+OTA 2610 Fieldwork Fundamentals 2
+OTA 2710 Level I Fieldwork A 1
+OTA 2720 Level I Fieldwork B 1
+OTA 3710 Level II Fieldwork A 3
+OTA 3720 Level II Fieldwork B 3
+OTA 3750 OTA Board Review 0
+PAR 1010 Law, Legal Profession, and Terminology 3
+PAR 1150 Legal Writing, Research, and Analysis I 3
+PAR 1410 Law Office Technology, Management, and Ethics 3
+PAR 2010 Torts 3
+PAR 2110 Criminal Law and Procedures 3
+PAR 2150 Legal Writing, Research, and Analysis II 3
+PAR 2310 Wills, Trusts, and Probate Administration 3
+PAR 2410 Contract Law 3
+PAR 2710 Family Law 3
+PAR 2910 Civil Litigation 3
+PAR 3150 Legal Writing, Research, and Analysis III 3
+PAR 3350 Healthcare and Insurance Law 3
+PAR 3410 Elder Law 3
+PAR 3450 Alternative Dispute Resolution 3
+PAR 3510 Property and Real Estate Law 3
+PAR 3610 Employment and Labor Law 3
+PAR 3710 Debtor/Creditor Law 3
+PAR 4210 Administrative Law 3
+PAR 4310 Advanced Legal Technology and Software 3
+PAR 4350 Immigration Law 3
+PAR 4410 Business Organizations 3
+PAR 4450 Intellectual Property Law 3
+PAR 4910 Evidence 3
+PLT 1210 Introduction to Photonics and Lasers 4
+PLT 2310 Optical Components, Systems and Metrology 3
+PLT 2350 Fiber Optics and Data Communications 3
+PLT 2410 Laser Systems 4
+PLT 2510 Photonics Applications 3
+PLT 2710 Capstone Project 3
+POL 3010 American Political Systems 3
+POL 3110 International Relations 3
+PPM 3010 Project Management 3
+PPM 3110 Project Planning 3
+PPM 3210 Negotiation Strategies 3
+PPM 4010 Project Cost and Budget Management 3
+PPM 4110 Leading Project Teams 3
+PPM 4210 Contracting and Procurement for Project Managers 3
+PPM 4990 Senior Design Project in Project Management 3
+PSY 1010 Human Relations 3
+PSY 1110 General Psychology 3
+PSY 2010 Cognitive Behavioral Therapy 3
+PSY 2110 Psychology of Death and Dying 3
+PSY 2150 Psychology as a Science and Profession 3
+PSY 2210 Developmental Psychology 3
+PSY 2250 Psychology of Drug Use and Addiction 3
+PSY 2310 Industrial Organizational Psychology 3
+PSY 2410 Theories of Counseling 3
+PSY 2510 Cognitive Psychology 3
+PSY 3010 Forensic Psychology 3
+PSY 3050 Health Psychology 3
+PSY 3110 Abnormal Psychology 3
+PSY 3150 Community Psychology 3
+PSY 3210 Psychology of Disability 3
+PSY 3350 Human Sexuality 3
+PSY 3410 Child Psychology 3
+PSY 3510 Adolescent Psychology 3
+PSY 3550 Personality Psychology 3
+PSY 3610 Psychology of Gender 3
+PSY 3660 Research Methods I 3
+PSY 3670 Research Methods II 3
+PSY 3810 Cross Cultural Psychology 3
+PSY 3910 Biological Psychology 3
+PSY 4010 Social Psychology 3
+PSY 4050 Psychopharmacology 3
+PSY 4110 Clinical Methods in Mental Health 3
+PSY 4150 Gerontology 3
+PSY 4310 Physiological Psychology 3
+PSY 4450 Motivation and Emotion 3
+PSY 4610 Learning and Memory 3
+PSY 4910 Senior Seminar: Psychology 3
+PSY 5210 Industrial/Organizational Psychology 3
+PSY 5410 Statistics and Data Analysis 3
+PSY 5610 Research Methods 3
+PSY 5710 Psychology of Leadership 3
+PSY 5810 Psychology of Performance and Motivation 3
+PSY 6110 Tests, Measurements, and Assessment in the Workplace 3
+PSY 6310 Psychology of Training and Learning 3
+PSY 6410 Psychology of Personnel Management and Human Resources 3
+PSY 6510 Individual and Group Factors in the Workplace 3
+PSY 6610 Evidence Based Coaching 3
+PSY 6710 Industrial/Organizational Psychology Residency 3
+PSY 6810 Organizational Development, Change, and Consultation 3
+PSY 6990 Integrative Capstone in Psychology 3
+PTA 1110 Introduction to PTA 1
+PTA 2010 Acute and Long Term Care 2
+PTA 2050 Clinical Documentation for the PTA 1
+PTA 2110A Functional Mobility 3
+PTA 2150 Neurological Foundations of Motor Control 2
+PTA 2210 Functional Movement Development 2
+PTA 2250 Clinical Pathology 2
+PTA 2310 Patient Assessment 3
+PTA 2350 Cardiopulmonary Rehabilitation 2
+PTA 2410 Therapeutic Exercise 3
+PTA 2450 Orthopedic Interventions 2
+PTA 2510 Professional Preparation 1
+PTA 2550 Neurological Management 3
+PTA 2610 Pediatric Management 2
+PTA 2650 Orthotics and Prosthetics for the PTA 1
+PTA 2710 Clinical Education I 2
+PTA 2720 Clinical Education II 6
+PTA 2730 Clinical Education III 6
+PTA 2750 Physical Agents 2
+PTA 2810 PTA Seminar in Specialty Practice 1
+PTA 2910 PTA Capstone 1
+RAD 1010 Introduction to Radiography 2
+RAD 1110 Radiologic Procedures I 4
+RAD 1150 Simulation Lab 1
+RAD 1210 Radiologic Science I 4
+RAD 1250 Radiation Safety 1
+RAD 2120 Radiologic Procedures II 6
+RAD 2220 Radiologic Science II 6
+RAD 2310 Clinical Applications I 6
+RAD 2320 Clinical Applications II 6
+RAD 2410A Patient Care and Assessment 3
+RAD 2450 Radiologic Capstone 3
+RAD 2510 CT Basics and Related Anatomy 3
+RAD 2610 Radiologic Pharmacology 2
+RDT 1010 Introduction to Radiation Therapy 3
+RDT 2110 Radiobiology 2
+RDT 2210 Patient Care Management 2
+RDT 2310 Imaging and Processing in Radiation Oncology 4
+RDT 2410 Sectional Anatomy 3
+RDT 3110 Radiation Therapy Physics I 3
+RDT 3120 Radiation Therapy Physics II 3
+RDT 3210 Principles and Practice of Radiation Therapy I 4
+RDT 3220 Principles and Practice of Radiation Therapy II 4
+RDT 3310 Introduction to Clinical Practicum I 5
+RDT 3320 Introduction to Clinical Practicum II 5
+RDT 4110 Clinical Practicum I 6
+RDT 4120 Clinical Practicum II 6
+RDT 4130 Clinical Practicum III 6
+RDT 4210 Dosimetry 5
+RDT 4310 Senior Seminar I 3
+RDT 4320 Senior Seminar II 3
+RDT 4410 Quality Management and Operational Issues in Radiation Therapy 3
+SCI 1210 Physics Concepts 1
+SCI 2150 Integrated Physics 3
+SCI 2460 General Chemistry 4
+SCI 2510 General Physics I 4
+SCI 2520 General Physics II 4
+SCI 3210 Principles of Astronomy 3
+SCI 4510 Environmental Science 3
+SCM 3010 Procurement and Supply Chain Management 3
+SCM 3210 Manufacturing, Planning, and Control 3
+SCM 4010 Decision Modeling in Supply Chains 3
+SCM 4210 Advanced Topics in Supply Chain Management 3
+SLI 1110 American Sign Language I 3
+SOC 2010 Sociology 3
+SOC 3010 Social Problems 3
+SOC 3210 Cultural Diversity 3
+SPK 2010 Oral Communication 3
+SPK 2050 Oral Interpretation of Literature 3
+SPK 2110 Group Dynamics 3
+SPK 4010 Professional Speaking 3
+SPN 1010 Spanish I 3
+SPN 1020 Spanish II 3
+SPT 1010 Introduction to Central Services 3
+SPT 1050 Regulations, Standards and Quality Assurance of Central Service Operation 2
+SPT 1110 Principles of Cleaning, Decontam ination, Disinfection and Surgic al Instrumentation 3
+SPT 1150 Sterile Processing, Storage and Distribution 3
+SPT 1210 Professional Career Preparation 2
+SUR 1050 Introduction to Surgical Asepsis and Fundamentals 4
+SUR 2010 Surgical Fundamentals 2
+SUR 2050 Advanced Surgical Asepsis 2
+SUR 2110 Surgical Asepsis I 4
+SUR 2120 Surgical Asepsis II 2
+SUR 2210 Surgical Technology Lab I 2
+SUR 2220 Surgical Technology Lab II 4
+SUR 2310 Surgical Patient 2
+SUR 2350 Surgical Pharmacology and Anesthesia 2
+SUR 2410 Surgical Procedures I 4
+SUR 2420 Surgical Procedures II 2
+SUR 2510 Clinical I 5
+SUR 2520 Clinical II 5
+SUR 2590 Professional Preparation 3
+VAS 2220 Non-Invasive Vascular I 3
+VAS 2320 Non-invasive Vascular II 3
+VET 1010A Anatomy and Physiology for Veterinary Technology 4
+VET 1011 Anatomy and Physiology for Veterinary Technology Lab 1
+VET 1050 Fundamentals of Veterinary Technology 4
+VET 1110 Laboratory and Exotic Animal Procedures and Nursing 2
+VET 1210 Large Animal Procedures and Nursing 2
+VET 2010 Veterinary Diagnostic Imaging 3
+VET 2050 Veterinary Pathology 4
+VET 2110 Veterinary Diagnostic Laboratory Procedures 5
+VET 2150 Veterinary Pharmacology 5
+VET 2210 Introduction to Veterinary Surgical Procedures and Nursing 5
+VET 2310 Advanced Veterinary Surgical Procedures and Nursing 6
+VET 2410 Veterinary Technology Capstone/Board Review 2
+VET 2510 Veterinary Technology Internship 4
+WEB 1110 Introduction to HTML 3
+WEB 1210 World Wide Web Design 3
+WEB 1310 Web Development I 3
+WEB 1320 Web Development II 3
+WEB 2110 Web Scripting 3
+WEB 2210 Interactive Web Design 3
+WELD 1010 Welding Principles 3
+WELD 1110 Cutting and Oxy-fuel Welding 4
+WELD 1160 Gas Metal Arc Welding 4
+WELD 1210 Gas Tungsten Arc Welding 4
+WELD 1260 Shielded Metal Arc Welding 4
+WELD 1310 Metallurgy 3
+WELD 2110 Advanced Welding and Cutting Processes 3
+WELD 2210 Welding Fabrication Practicum I 3
+WELD 2220 Welding Fabrication Practicum II 3
+WELD 2960 Welding Certification I and II SMAW and GMAW Processes 2
+WELD 2970 Welding Certification III and IV FCAW and GTAW Processes 1
+WRI 1150 Workplace Communication 3
+WRI 3010 Report Writing 3
+WRK 2150 Paralegal Work Experience 3
+WRK 2270 Sterile Processing Technician Externship 2
+WRK 3010 Work Experience 3
+WRK 4410 Healthcare Administration Externship 3

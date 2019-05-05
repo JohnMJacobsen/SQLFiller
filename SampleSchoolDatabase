@@ -54,11 +54,11 @@ SELECT * FROM Classes;
 SELECT * FROM Staff_Class_Relation;
 SELECT * FROM Student_Class_Relation;
 
-
-SELECT * 
+-- Displays students who would be classified as Freshmen.
+SELECT first_name as "First Name", last_name AS "Last Name", credits as "Credits", major as "Major"
 FROM Students 
 WHERE credits < 30
-ORDER BY credits DESC;
+ORDER BY credits DESC, Major;
 
 -- Displays last name and birthday of students born in 1998
 SELECT last_name AS "Name", birth_date AS "Birthday"

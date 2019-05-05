@@ -1,3 +1,5 @@
+-- This entire file can be placed directly into POPSql after creating a schema
+
 CREATE TABLE Students (
     student_ssn INT(9) PRIMARY KEY,
     first_name VARCHAR(20),
